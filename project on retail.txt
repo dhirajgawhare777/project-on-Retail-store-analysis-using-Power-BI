@@ -1,0 +1,25 @@
+*****************************************************************
+*******************Retail Analysis with Power BI*****************
+****************************************************************
+
+
+--> All data is there in Excel sheet
+
+Summary
+This project uses Power BI to analyze retail data. It features a dynamic dashboard with sales, inventory, and customer insights, aiding informed decision-making.
+
+Features
+Interactive dashboard.
+Sales, inventory, customer visualizations.
+Data filtering with slicers.
+Utilizes Power BI's data capabilities.
+Usage
+Open Power BI project.
+Filter data using slicers.
+Explore visualizations.
+Gain actionable insights.
+Inform business decisions.
+Benefits
+Data-driven decisions.
+Improved inventory management.
+Clear customer behavior understanding.
